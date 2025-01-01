@@ -7,7 +7,7 @@ const Aboutpage = () => {
   <div className="absolute inset-0 bg-[url('https://media.istockphoto.com/id/1387945043/photo/computer-technology-background-digital-data-flow-network-connection-structure-big-data.jpg?s=612x612&w=0&k=20&c=V2cZ-hiraxH7UVPiTSWgYftHjx0iSevz0xfUuJLJ9pc=')] opacity-20"></div>
   <div className="relative z-10 text-white"></div>
     <div className="max-w-screen-xl mx-auto px-6 py-12 bg-gray-50">
-      {/* Header Section */}
+     
       <div className="text-center mb-16">
         <h1 className="text-5xl font-extrabold text-teal-800">About Our Blog</h1>
         <p className="text-lg text-gray-600 mt-4 leading-relaxed max-w-3xl mx-auto">
@@ -18,7 +18,7 @@ const Aboutpage = () => {
         </p>
       </div>
 
-      {/* About Me Section */}
+     
       <div className="bg-white shadow-lg rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold text-teal-950">About Me</h2>
         <p className="text-lg text-gray-700 mt-4 leading-relaxed">
@@ -29,7 +29,7 @@ const Aboutpage = () => {
         </p>
       </div>
 
-      {/* About Tech News Section */}
+     
       <div className="bg-white shadow-lg rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold text-teal-950">About Tech News</h2>
         <p className="text-lg text-gray-700 mt-4 leading-relaxed">
@@ -40,7 +40,7 @@ const Aboutpage = () => {
         </p>
       </div>
 
-      {/* Why Choose Tech News Section */}
+     
       <div className="bg-white shadow-lg rounded-lg p-8 mb-12">
         <h2 className="text-3xl font-semibold text-teal-950 mb-6">Why Choose Tech News?</h2>
         <ul className="space-y-6">
